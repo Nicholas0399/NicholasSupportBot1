@@ -29,7 +29,7 @@ public class NicholasSupportBot extends TelegramLongPollingBot {
 
     @Override
     public String getBotToken() {
-        return "7390756964:AAE8olK2f3DxAr9Q5dv4EWE_q-6sIK_S9Jc";
+        return "";
     }
 
     @Override
